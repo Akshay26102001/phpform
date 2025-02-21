@@ -8,3 +8,5 @@ CREATE TABLE contacts (
     message TEXT NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+ALTER TABLE contacts ADD phone VARCHAR(15) NOT NULL;

@@ -16,6 +16,9 @@
             
             <label for="email">Email:</label>
             <input type="email" name="email" required>
+
+            <label for="phone">Phone:</label>
+            <input type="text" name="phone" required>
             
             <label for="message">Message:</label>
             <textarea name="message" required></textarea>
