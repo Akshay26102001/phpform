@@ -6,4 +6,4 @@ new features, merging updates, and tagging versions. To run the project, import 
 XAMPP/WAMP, and access index.php via a web browser. The form submits user inputs, storing them in the database for later retrieval. 
 Git allows tracking modifications, ensuring seamless version management and collaborative development. The latest update includes a 
 phone number field for enhanced data collection. This project demonstrates fundamental PHP, MySQL integration, and version control best 
-practices.
+practices..
