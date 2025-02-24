@@ -1,0 +1,9 @@
+The PHP Contact Form project is a simple web application that collects user details (Name, Email, Phone, and Message) and
+stores them in a MySQL database. The project consists of key files including index.php for the form interface, process.php
+for handling submissions, config.php for database connection, style.css for styling, and db.sql for database setup. The project
+is managed using Git for version control, with commands for initializing a repository, pushing changes to GitHub, branching for 
+new features, merging updates, and tagging versions. To run the project, import db.sql into phpMyAdmin, start a local server using 
+XAMPP/WAMP, and access index.php via a web browser. The form submits user inputs, storing them in the database for later retrieval. 
+Git allows tracking modifications, ensuring seamless version management and collaborative development. The latest update includes a 
+phone number field for enhanced data collection. This project demonstrates fundamental PHP, MySQL integration, and version control best 
+practices.
